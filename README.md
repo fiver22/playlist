@@ -1,4 +1,4 @@
 # playlist
 
-This is an attempt to track my playlist changes AND learn a bit about using git.
+A way to track changes in my 'new' playlist while learning some git basics
 
