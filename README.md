@@ -2,7 +2,7 @@
 
 A way to track changes in my 'new' playlist while learning some git basics.
 
-##albums in my current playlist
+## albums in my current playlist
 
 - **Kendrick Lamar** - DAMN.
 - **YOB** - Our Raw Heart
