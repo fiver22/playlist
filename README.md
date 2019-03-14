@@ -37,4 +37,5 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Marika Hackman** - I'm Not Your Man
 - **The Japanese House** - Good At Falling
 - **The Barr Brothers** - Queens of the Breakers
-**The Psychotic Monks** - Silence Slowly and Madly Shines
+- **The Psychotic Monks** - Silence Slowly and Madly Shines
+
