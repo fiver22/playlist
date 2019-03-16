@@ -29,7 +29,7 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
 - **Daniel Romano** - Finally Free
 - **Debussy** - Alexander Melnikov - Preludes du 2e Livre
-- **Eric Dolphy** - Musical Prophet 1, 2, and 3
+- **Eric Dolphy** - Musical Prophet 1
 - **St. Vincent** - MassEducation
 - **Tirzah** - Devotion
 - **BEAK>** - >>>
