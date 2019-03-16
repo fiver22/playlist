@@ -28,7 +28,7 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Deer Tick** - Deer Tick
 - **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
 - **Daniel Romano** - Finally Free
-- **Debussy** - Preludes du 2e Livre
+- **Debussy** - Alexander Melnikov - Preludes du 2e Livre
 - **Eric Dolphy** - Musical Prophet 1, 2, and 3
 - **St. Vincent** - MassEducation
 - **Tirzah** - Devotion
