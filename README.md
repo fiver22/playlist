@@ -1,3 +1,8 @@
+## albums in my current playlist
+
+A way to track changes in my 'new' playlist while learning some git basics.
+
+# playlist
 - **Emma Ruth Rundle** - On Dark Horses
 - **St. Vincent** - MASSEDUCTION
 - **Tim Hecker** - Konoyo
@@ -36,9 +41,3 @@
 - **The Weather Station** - The Weather Station
 - **YOB** - Our Raw Heart
 - **Kendrick Lamar** - DAMN.
-
-## albums in my current playlist
-
-A way to track changes in my 'new' playlist while learning some git basics.
-
-# playlist
