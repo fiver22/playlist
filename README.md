@@ -1,41 +1,44 @@
-# playlist
-
-A way to track changes in my 'new' playlist while learning some git basics.
+- **Emma Ruth Rundle** - On Dark Horses
+- **St. Vincent** - MASSEDUCTION
+- **Tim Hecker** - Konoyo
+- **SRSQ** - Unreality
+- **The Psychotic Monks** - Private Meaning First
+- **The Barr Brothers** - Queens of the Breakers
+- **The Japanese House** - Good At Falling
+- **Marika Hackman** - I'm Not Your Man
+- **Consider the Source** - You Are Literally a Metaphor
+- **BEAK>** - >>>
+- **Tirzah** - Devotion
+- **St. Vincent** - MassEducation
+- **Eric Dolphy** - Musical Prophet 1
+- **Debussy** - Alexander Melnikov - Preludes du 2e Livre
+- **Daniel Romano** - Finally Free
+- **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
+- **Deer Tick** - Deer Tick
+- **Deerhunter** - Why Hasn't Everything Already Disappeared?
+- **The Ocean** - Phanerozic I (Instrumental)
+- **Glenn Jones** - The Giant Who Ate Himself and Other New Works For 6 & 12 String Guitar
+- **Jherek Bischoff** - Cistern
+- **Timber Timbre** - Sincerely, Future Pollution
+- **Vikingur Olafsson** - Johann Sebastian Bach
+- **Sleep** - The Sciences
+- **Nekrogoblikon** - Welcome to Bonkers
+- **Cult Leader** - A Patient Man
+- **Between the Buried and Me** - Automata II
+- **Sturgill Simpson** - A Sailor's Guide to Earth
+- **6LACK** - Free 6LACK
+- **The Dirty Nil** - Master Volume
+- **Jean-Michel Blais** - Dans ma main
+- **La Force** - La Force
+- **Gold Connections** - Popular Fiction
+- **Thee Oh Sees** - Smote Reverser
+- **John Coltrane** - Both Directions At Once (The Lost Album) [Deluxe Edition]
+- **The Weather Station** - The Weather Station
+- **YOB** - Our Raw Heart
+- **Kendrick Lamar** - DAMN.
 
 ## albums in my current playlist
 
-- **Kendrick Lamar** - DAMN.
-- **YOB** - Our Raw Heart
-- **The Weather Station** - The Weather Station
-- **John Coltrane** - Both Directions At Once (The Lost Album) [Deluxe Edition]
-- **Thee Oh Sees** - Smote Reverser
-- **Gold Connections** - Popular Fiction
-- **La Force** - La Force
-- **Jean-Michel Blais** - Dans ma main
-- **The Dirty Nil** - Master Volume
-- **6LACK** - Free 6LACK
-- **Sturgill Simpson** - A Sailor's Guide to Earth
-- **Between the Buried and Me** - Automata II
-- **Cult Leader** - A Patient Man
-- **Nekrogoblikon** - Welcome to Bonkers
-- **Sleep** - The Sciences
-- **Vikingur Olafsson** - Johann Sebastian Bach
-- **Timber Timbre** - Sincerely, Future Pollution
-- **Jherek Bischoff** - Cistern
-- **Glenn Jones** - The Giant Who Ate Himself and Other New Works For 6 & 12 String Guitar
-- **The Ocean** - Phanerozic I (Instrumental)
-- **Deerhunter** - Why Hasn't Everything Already Disappeared?
-- **Deer Tick** - Deer Tick
-- **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
-- **Daniel Romano** - Finally Free
-- **Debussy** - Alexander Melnikov - Preludes du 2e Livre
-- **Eric Dolphy** - Musical Prophet 1
-- **St. Vincent** - MassEducation
-- **Tirzah** - Devotion
-- **BEAK>** - >>>
-- **Consider the Source** - You Are Literally a Metaphor
-- **Marika Hackman** - I'm Not Your Man
-- **The Japanese House** - Good At Falling
-- **The Barr Brothers** - Queens of the Breakers
-- **The Psychotic Monks** - Private Meaning First
+A way to track changes in my 'new' playlist while learning some git basics.
 
+# playlist
