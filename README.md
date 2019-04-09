@@ -31,7 +31,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Cult Leader** - A Patient Man
 - **Between the Buried and Me** - Automata II
 - **Sturgill Simpson** - A Sailor's Guide to Earth
-- **6LACK** - Free 6LACK
 - **The Dirty Nil** - Master Volume
 - **Jean-Michel Blais** - Dans ma main
 - **La Force** - La Force
