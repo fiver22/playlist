@@ -3,6 +3,9 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Sunn O)))** - Life Metal
+- **Rebelution** - Free Rein 
+- **Glue Trip** - Sea at Night 
 - **Emma Ruth Rundle** - On Dark Horses
 - **St. Vincent** - MASSEDUCTION
 - **Tim Hecker** - Konoyo
