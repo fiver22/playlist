@@ -3,6 +3,8 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Chloé Breault** - Love
+- **John Zorn** - Salem 1962
 - **Jennifer Warnes** - Another Time, Another Place
 - **Rachel Barton Pine, Jory Vinikour** - J.S. Bach - The Sonatas for Violin & Harpsichord
 - **Sunn O)))** - Life Metal
