@@ -5,10 +5,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 # playlist
 - **Chloé Breault** - Love
 - **John Zorn** - Salem 1962
-- **Jennifer Warnes** - Another Time, Another Place
-- **Rachel Barton Pine, Jory Vinikour** - J.S. Bach - The Sonatas for Violin & Harpsichord
-- **Sunn O)))** - Life Metal
-- **Rebelution** - Free Rein 
 - **Glue Trip** - Sea at Night 
 - **Emma Ruth Rundle** - On Dark Horses
 - **St. Vincent** - MASSEDUCTION
@@ -22,7 +18,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **BEAK>** - >>>
 - **Tirzah** - Devotion
 - **St. Vincent** - MassEducation
-- **Eric Dolphy** - Musical Prophet 1
 - **Debussy** - Alexander Melnikov - Preludes du 2e Livre
 - **Daniel Romano** - Finally Free
 - **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
@@ -46,4 +41,3 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **John Coltrane** - Both Directions At Once (The Lost Album) [Deluxe Edition]
 - **The Weather Station** - The Weather Station
 - **YOB** - Our Raw Heart
-- **Kendrick Lamar** - DAMN.
