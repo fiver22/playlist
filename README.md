@@ -3,6 +3,10 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Swamp Dogg** - Love, Loss, and Auto-Tune
+- **Cave In** - Final Transmission
+- **Jean-Marie Leclaire** - Violin Concertos - Leila Schayegh, La Cetra Barockorchester Basel
+- **Prince** - Originals
 - **Chloé Breault** - Love
 - **John Zorn** - Salem 1962
 - **Glue Trip** - Sea at Night 
