@@ -3,6 +3,7 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Baroness** - Gold & Grey
 - **Swamp Dogg** - Love, Loss, and Auto-Tune
 - **Cave In** - Final Transmission
 - **Jean-Marie Leclaire** - Violin Concertos - Leila Schayegh, La Cetra Barockorchester Basel
