@@ -3,6 +3,8 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Ben Salisbury & Geoff Barrow** - Annihilation
+- **Bryan Away** - Give In
 - **Baroness** - Gold & Grey
 - **Swamp Dogg** - Love, Loss, and Auto-Tune
 - **Cave In** - Final Transmission
