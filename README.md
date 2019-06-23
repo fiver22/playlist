@@ -3,6 +3,9 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Vulfpeck** - Hill Climber
+- **Jeremy Dutcher** - Wolastoqiyik Lintuwakonawa
+- **Thank You Scientist** - Terraformer
 - **Ben Salisbury & Geoff Barrow** - Annihilation
 - **Bryan Away** - Give In
 - **Baroness** - Gold & Grey
