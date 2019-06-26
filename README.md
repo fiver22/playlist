@@ -3,13 +3,12 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Sungazer** - Sungazer, Vol. 2
 - **Vulfpeck** - Hill Climber
 - **Jeremy Dutcher** - Wolastoqiyik Lintuwakonawa
-- **Thank You Scientist** - Terraformer
 - **Ben Salisbury & Geoff Barrow** - Annihilation
 - **Bryan Away** - Give In
 - **Baroness** - Gold & Grey
-- **Swamp Dogg** - Love, Loss, and Auto-Tune
 - **Cave In** - Final Transmission
 - **Jean-Marie Leclaire** - Violin Concertos - Leila Schayegh, La Cetra Barockorchester Basel
 - **Prince** - Originals
