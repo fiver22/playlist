@@ -14,7 +14,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Prince** - Originals
 - **Chloé Breault** - Love
 - **John Zorn** - Salem 1962
-- **Glue Trip** - Sea at Night 
 - **Emma Ruth Rundle** - On Dark Horses
 - **St. Vincent** - MASSEDUCTION
 - **Tim Hecker** - Konoyo
@@ -32,7 +31,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
 - **Deer Tick** - Deer Tick
 - **Deerhunter** - Why Hasn't Everything Already Disappeared?
-- **The Ocean** - Phanerozic I (Instrumental)
 - **Glenn Jones** - The Giant Who Ate Himself and Other New Works For 6 & 12 String Guitar
 - **Jherek Bischoff** - Cistern
 - **Timber Timbre** - Sincerely, Future Pollution
