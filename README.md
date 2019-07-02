@@ -3,6 +3,9 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Laurence-Anne** - Première apparition
+- **Various Artists** - A Young Person's Guide to the Avant-Garde
+- **Charles Ives** - Ives Plays Ives (The Complete Recordings of Charles Ives at the Piano)
 - **Sungazer** - Sungazer, Vol. 2
 - **Vulfpeck** - Hill Climber
 - **Jeremy Dutcher** - Wolastoqiyik Lintuwakonawa
