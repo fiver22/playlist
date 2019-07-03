@@ -3,6 +3,7 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Jacques Greene (feat. Cadence Weapon)** - Night Service
 - **Laurence-Anne** - Première apparition
 - **Various Artists** - A Young Person's Guide to the Avant-Garde
 - **Charles Ives** - Ives Plays Ives (The Complete Recordings of Charles Ives at the Piano)
@@ -14,7 +15,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Baroness** - Gold & Grey
 - **Cave In** - Final Transmission
 - **Jean-Marie Leclaire** - Violin Concertos - Leila Schayegh, La Cetra Barockorchester Basel
-- **Prince** - Originals
 - **Chloé Breault** - Love
 - **John Zorn** - Salem 1962
 - **Emma Ruth Rundle** - On Dark Horses
