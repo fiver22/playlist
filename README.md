@@ -3,6 +3,7 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Shubh Saran** - Hmayra
 - **Jacques Greene (feat. Cadence Weapon)** - Night Service
 - **Laurence-Anne** - Première apparition
 - **Various Artists** - A Young Person's Guide to the Avant-Garde
