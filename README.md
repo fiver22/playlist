@@ -3,6 +3,8 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **John Zorn** - The Hierophant
+- **Schneider** - Das Weltgericht (Oratorium)
 - **Shubh Saran** - Hmayra
 - **Jacques Greene (feat. Cadence Weapon)** - Night Service
 - **Laurence-Anne** - Première apparition
