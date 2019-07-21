@@ -21,7 +21,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Chloé Breault** - Love
 - **John Zorn** - Salem 1962
 - **Emma Ruth Rundle** - On Dark Horses
-- **St. Vincent** - MASSEDUCTION
 - **Tim Hecker** - Konoyo
 - **SRSQ** - Unreality
 - **The Psychotic Monks** - Private Meaning First
@@ -31,10 +30,8 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Consider the Source** - You Are Literally a Metaphor
 - **BEAK>** - >>>
 - **Tirzah** - Devotion
-- **St. Vincent** - MassEducation
 - **Debussy** - Alexander Melnikov - Preludes du 2e Livre
 - **Daniel Romano** - Finally Free
-- **Brian Marsella Trio** - Outspoken - The Music of the Legendary Hasaan
 - **Deer Tick** - Deer Tick
 - **Deerhunter** - Why Hasn't Everything Already Disappeared?
 - **Glenn Jones** - The Giant Who Ate Himself and Other New Works For 6 & 12 String Guitar
@@ -50,7 +47,6 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **Jean-Michel Blais** - Dans ma main
 - **La Force** - La Force
 - **Gold Connections** - Popular Fiction
-- **Thee Oh Sees** - Smote Reverser
 - **John Coltrane** - Both Directions At Once (The Lost Album) [Deluxe Edition]
 - **The Weather Station** - The Weather Station
 - **YOB** - Our Raw Heart
