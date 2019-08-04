@@ -3,6 +3,16 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+
+- **Saul Williams** - Encrypted & Vulnerable
+- **Abdul Karim Khan** - Ustad Abdul Karim Khan 1934-1935
+- **Farida Parveen** - Bangladesh, Chants de Lalon Shah
+- **Sudha Ragunathan** - Shakti
+- **Surashri Kesarbai Kerkar** - Kesarbai Kerkar
+- **Ustad Saami** - God Is Not a Terrorist
+- **Various** - India Chants in Praise of Krishna
+- **Various Artists** - Sacred Chants of Gayatri
+- **Sayeeduddin Dagar** - Chant Dhrupad A Vezelay
 - **John Zorn** - The Hierophant
 - **Schneider** - Das Weltgericht (Oratorium)
 - **Shubh Saran** - Hmayra
