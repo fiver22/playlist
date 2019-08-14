@@ -3,7 +3,8 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
-
+- **Marika Hackman** - Any Human Friend
+- **Oh Sees** - Face Stabber
 - **Saul Williams** - Encrypted & Vulnerable
 - **Abdul Karim Khan** - Ustad Abdul Karim Khan 1934-1935
 - **Farida Parveen** - Bangladesh, Chants de Lalon Shah
