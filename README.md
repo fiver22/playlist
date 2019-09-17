@@ -3,6 +3,7 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Tropical Fuck Storm** - A Laughing Death in Meatspace
 - **Marika Hackman** - Any Human Friend
 - **Oh Sees** - Face Stabber
 - **Saul Williams** - Encrypted & Vulnerable
