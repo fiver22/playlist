@@ -3,6 +3,11 @@
 A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
+- **Yazz Ahmed** - Polyhymnia
+- **The Waterboys** - Where the Action Is
+- **Gang Starr** - One of the Best Yet
+- **Corridor** - Junior
+- **clipping** - There Existed an Addiction to Blood
 - **Tropical Fuck Storm** - A Laughing Death in Meatspace
 - **Marika Hackman** - Any Human Friend
 - **Oh Sees** - Face Stabber
