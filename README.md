@@ -6,7 +6,7 @@ A way to track changes in my 'new' playlist while learning some git basics.
 - **JPEGMAFIA** - All My Heroes are Cornballs
 - **Yawning Man** Macedonian Lines
 - **Weyes Blood** - Titanic Rising
-- **VA** Hamilton (Original Broadway Cast Recording)
+- **VA**- Hamilton (Original Broadway Cast Recording)
 - **Tyler Childers** - Country Squire
 - **Toothgrinder** - I AM
 - **Soul Jazz Presents Apala** - Apala Groups in Nigeria 1967-70
