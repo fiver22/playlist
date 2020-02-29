@@ -4,7 +4,7 @@ A way to track changes in my 'new' playlist while learning some git basics.
 
 # playlist
 - **JPEGMAFIA** - All My Heroes are Cornballs
-- **Yawning Man** Macedonian Lines
+- **Yawning Man** - Macedonian Lines
 - **Weyes Blood** - Titanic Rising
 - **VA** - Hamilton (Original Broadway Cast Recording)
 - **Tyler Childers** - Country Squire
